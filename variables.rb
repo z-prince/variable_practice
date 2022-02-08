@@ -13,3 +13,8 @@ lizard_food = 1234.2
 lizards_full = true
 cats_full = true
 dogs_full = false
+
+dog_name = "Suzy"
+cat_name = "Goliath"
+lizard_name = "Foxtrot"
+
